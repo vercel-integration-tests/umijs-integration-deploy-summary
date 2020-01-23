@@ -7,7 +7,7 @@
 
 .welcome {
   height: 328px;
-  background: url(../assets/yay.jpg) no-repeat center 0;
+  background: url('https://images.unsplash.com/photo-1574616619039-fbac62b56994?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60') no-repeat center 0;
   background-size: 388px 328px;
 }
 
